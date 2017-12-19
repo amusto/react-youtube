@@ -1,2 +1,6 @@
-# react-youtube-list
-Youtube search listing app using React
+# ReactYoutube
+
+### Getting Started
+
+> npm install
+> npm start
